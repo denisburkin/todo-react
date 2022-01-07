@@ -1,7 +1,6 @@
-# todo  react js app
+# todo react js app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Это тестовое приложения для "Список дел"
 
-## Available Scripts
-
-In the project directory, you can run:
+# Запуск приложения
+yarn start
